@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="15093" started-at="2022-01-20T20:57:22 IST" finished-at="2022-01-20T20:57:38 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="15093" started-at="2022-01-20T20:57:22 IST" finished-at="2022-01-20T20:57:38 IST">
+      <class name="com.learnautomation.testing.SeleniumGridDemo2">
+        <test-method status="PASS" signature="testOnWin11ChromeLatest()[pri:0, instance:com.learnautomation.testing.SeleniumGridDemo2@3ecd23d9]" name="testOnWin11ChromeLatest" duration-ms="15026" started-at="2022-01-20T20:57:22 IST" finished-at="2022-01-20T20:57:37 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testOnWin11ChromeLatest -->
+      </class> <!-- com.learnautomation.testing.SeleniumGridDemo2 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
